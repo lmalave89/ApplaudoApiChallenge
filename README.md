@@ -21,7 +21,7 @@
 <h2><b>Steps to execution:</b></h2>
 
 <ul>
-    <li>Clone the repository in a folder with the next command on your cmd or terminal: <code>git clone XXXX</code></li>
+    <li>Clone the repository in a folder with the next command on your cmd or terminal: <code>git clone https://github.com/lmalave89/ApplaudoApiChallenge</code></li>
     <li>Open the project in the IDE of your preference</li>
     <li>Depending of the IDE, maybe you should import the dependencies manually or synchronize manually</li>
     <li>To execute the automation,should execute the next command on the root of the project using cmd or terminal: <code>gradle clean test aggregate --info</code></li>
